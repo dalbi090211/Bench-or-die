@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{270ced29-88f6-4364-8779-1939b6093ad0}">
+		<property name="name">
+			<value>BGMArea</value>
+		</property>
+		<relationship name="folder">
+			<destination>{efe5d449-b0e2-4be0-b25d-16c0f1f87fdf}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1d1c0248-3d87-49c0-9781-e69866b54ff6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1d1c0248-3d87-49c0-9781-e69866b54ff6}">
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{35d00a5a-d14e-449d-abbe-1153cb968ee1}">
+		<property name="assetPath">
+			<value>Music/Newer Wave.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>174.60244897959183</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{787ec134-309a-4f0d-8703-8f72233758bb}</destination>
+		</relationship>
+	</object>
+</objects>
